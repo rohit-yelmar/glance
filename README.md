@@ -62,10 +62,5 @@ This repository contains detailed requirements and design documents for the Glan
 - Visual search for style-based queries
 - Semantic filtering and recommendations
 
-## License
-
-[Add your license here]
-
-## Contributing
 
 [Add contribution guidelines here]
